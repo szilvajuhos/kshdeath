@@ -12,8 +12,7 @@ age_intervals = list(df.columns)
 #normalized_df = (df-df.mean())/df.std()
 normalized_df = df
 # we are assuming dates are ordered
-#plt.pcolormesh(normalized_df.T,norm=Normalize(0,3))
-plt.pcolormesh(normalized_df.T)
+plt.pcolormesh(normalized_df.T,cmap=plt.cm.get_cmap('gnuplot'))
 c = np.arange(1,len(dates)+1,52)
 x_dates = dates[c]
 plt.xticks(c, x_dates.dt.strftime("%Y"), rotation='vertical')
