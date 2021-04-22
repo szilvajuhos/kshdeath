@@ -4,7 +4,7 @@ from pandas import read_csv
 import matplotlib.pyplot as plt
 
 @click.command(context_settings=dict(help_option_names=['-h', '--help']))
-@click.option('--csv', '-c', type=str, help='CSV file from https://www.ksh.hu/stadat_files/nep/hu/nep0065.html in CSV format', required=True)
+@click.option('--csv', '-c', type=str, help='CSV file from https://www.ksh.hu/stadat_files/nep/en/nep0065.html in CSV format', required=True)
 
 def do_plotting(csv):
 
