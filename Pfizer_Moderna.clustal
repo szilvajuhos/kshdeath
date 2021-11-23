@@ -1,0 +1,282 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.310)
+
+
+Pfizer_BNT-162b -----------gagaataaactagtattcttctggtccccacagactcagagagaac---
+Moderna_mRNA-12 gggaaataagagagaaaaga----------------------agagtaagaagaaatata
+                           ***** *.*                      *** * ***...**.   
+
+Pfizer_BNT-162b -----------ccgccaccatgttcgtgttcctggtgctgctgcctctggtgtccagcca
+Moderna_mRNA-12 agaccccggcgccgccaccatgttcgtgttcctggtgctgctgcccctggtgagcagcca
+                           **********************************.******  ******
+
+Pfizer_BNT-162b gtgtgtgaacctgaccaccagaacacagctgcctccagcctacaccaacagctttaccag
+Moderna_mRNA-12 gtgcgtgaacctgaccacccggacccagctgccaccagcctacaccaacagcttcacccg
+                ***.*************** *.** ******** ********************.*** *
+
+Pfizer_BNT-162b aggcgtgtactaccccgacaaggtgttcagatccagcgtgctgcactctacccaggacct
+Moderna_mRNA-12 gggcgtctactaccccgacaaggtgttccggagcagcgtcctgcacagcacccaggacct
+                .***** ********************* *.  ****** ******  .***********
+
+Pfizer_BNT-162b gttcctgcctttcttcagcaacgtgacctggttccacgccatccacgtgtccggcaccaa
+Moderna_mRNA-12 gttcctgcccttcttcagcaacgtgacctggttccacgccatccacgtgagcggcaccaa
+                *********.***************************************  *********
+
+Pfizer_BNT-162b tggcaccaagagattcgacaaccccgtgctgcccttcaacgacggggtgtactttgccag
+Moderna_mRNA-12 cggcaccaagcggttcgacaaccccgtgctgcccttcaacgacggcgtgtacttcgccag
+                .********* *.******************************** ********.*****
+
+Pfizer_BNT-162b caccgagaagtccaacatcatcagaggctggatcttcggcaccacactggacagcaagac
+Moderna_mRNA-12 caccgagaagagcaacatcatccggggctggatcttcggcaccaccctggacagcaagac
+                **********  ********** *.******************** **************
+
+Pfizer_BNT-162b ccagagcctgctgatcgtgaacaacgccaccaacgtggtcatcaaagtgtgcgagttcca
+Moderna_mRNA-12 ccagagcctgctgatcgtgaataacgccaccaacgtggtgatcaaggtgtgcgagttcca
+                *********************.***************** *****.**************
+
+Pfizer_BNT-162b gttctgcaacgaccccttcctgggcgtctactaccacaagaacaacaagagctggatgga
+Moderna_mRNA-12 gttctgcaacgaccccttcctgggcgtgtactaccacaagaacaacaagagctggatgga
+                *************************** ********************************
+
+Pfizer_BNT-162b aagcgagttccgggtgtacagcagcgccaacaactgcaccttcgagtacgtgtcccagcc
+Moderna_mRNA-12 gagcgagttccgggtgtacagcagcgccaacaactgcaccttcgagtacgtgagccagcc
+                .***************************************************  ******
+
+Pfizer_BNT-162b tttcctgatggacctggaaggcaagcagggcaacttcaagaacctgcgcgagttcgtgtt
+Moderna_mRNA-12 cttcctgatggacctggagggcaagcagggcaacttcaagaacctgcgggagttcgtgtt
+                .*****************.***************************** ***********
+
+Pfizer_BNT-162b taagaacatcgacggctacttcaagatctacagcaagcacacccctatcaacctcgtgcg
+Moderna_mRNA-12 caagaacatcgacggctacttcaagatctacagcaagcacaccccaatcaacctggtgcg
+                .******************************************** ******** *****
+
+Pfizer_BNT-162b ggatctgcctcagggcttctctgctctggaacccctggtggatctgcccatcggcatcaa
+Moderna_mRNA-12 ggatctgccccagggcttctcagccctggagcccctggtggacctgcccatcggcatcaa
+                *********.*********** **.*****.***********.*****************
+
+Pfizer_BNT-162b catcacccggtttcagacactgctggccctgcacagaagctacctgacacctggcgatag
+Moderna_mRNA-12 catcacccggttccagaccctgctggccctgcaccggagctacctgaccccaggcgacag
+                ************.***** *************** *.*********** ** *****.**
+
+Pfizer_BNT-162b cagcagcggatggacagctggtgccgccgcttactatgtgggctacctgcagcctagaac
+Moderna_mRNA-12 cagcagcgggtggacagcaggcgcggctgcttactacgtgggctacctgcagccccggac
+                *********.******** **.** **.********.*****************. *.**
+
+Pfizer_BNT-162b cttcctgctgaagtacaacgagaacggcaccatcaccgacgccgtggattgtgctctgga
+Moderna_mRNA-12 cttcctgctgaagtacaacgagaacggcaccatcaccgacgccgtggactgcgccctgga
+                ************************************************.**.**.*****
+
+Pfizer_BNT-162b tcctctgagcgagacaaagtgcaccctgaagtccttcaccgtggaaaagggcatctacca
+Moderna_mRNA-12 ccctctgagcgagaccaagtgcaccctgaagagcttcaccgtggagaagggcatctacca
+                .************** ***************  ************.**************
+
+Pfizer_BNT-162b gaccagcaacttccgggtgcagcccaccgaatccatcgtgcggttccccaatatcaccaa
+Moderna_mRNA-12 gaccagcaacttccgggtgcagcccaccgagagcatcgtgcggttccccaacatcaccaa
+                ******************************.  ******************.********
+
+Pfizer_BNT-162b tctgtgccccttcggcgaggtgttcaatgccaccagattcgcctctgtgtacgcctggaa
+Moderna_mRNA-12 cctgtgccccttcggcgaggtgttcaacgccacccggttcgccagcgtgtacgcctggaa
+                .**************************.****** *.******  .**************
+
+Pfizer_BNT-162b ccggaagcggatcagcaattgcgtggccgactactccgtgctgtacaactccgccagctt
+Moderna_mRNA-12 ccggaagcggatcagcaactgcgtggccgactacagcgtgctgtacaacagcgccagctt
+                ******************.***************  *************  *********
+
+Pfizer_BNT-162b cagcaccttcaagtgctacggcgtgtcccctaccaagctgaacgacctgtgcttcacaaa
+Moderna_mRNA-12 cagcaccttcaagtgctacggcgtgagccccaccaagctgaacgacctgtgcttcaccaa
+                *************************  ***.************************** **
+
+Pfizer_BNT-162b cgtgtacgccgacagcttcgtgatccggggagatgaagtgcggcagattgcccctggaca
+Moderna_mRNA-12 cgtgtacgccgacagcttcgtgatccgtggcgacgaggtgcggcagatcgcacccggcca
+                *************************** ** **.**.***********.** **.** **
+
+Pfizer_BNT-162b gacaggcaagatcgccgactacaactacaagctgcccgacgacttcaccggctgtgtgat
+Moderna_mRNA-12 gacaggcaagatcgccgactacaactacaagctgcccgacgacttcaccggctgcgtgat
+                ******************************************************.*****
+
+Pfizer_BNT-162b tgcctggaacagcaacaacctggactccaaagtcggcggcaactacaattacctgtaccg
+Moderna_mRNA-12 cgcctggaacagcaacaacctcgacagcaaggtgggcggcaactacaactacctgtaccg
+                .******************** ***  ***.** **************.***********
+
+Pfizer_BNT-162b gctgttccggaagtccaatctgaagcccttcgagcgggacatctccaccgagatctatca
+Moderna_mRNA-12 gctgttccggaagagcaacctgaagcccttcgagcgggacatcagcaccgagatctacca
+                *************  ***.************************  ************.**
+
+Pfizer_BNT-162b ggccggcagcaccccttgtaacggcgtggaaggcttcaactgctacttcccactgcagtc
+Moderna_mRNA-12 agccggctccaccccttgcaacggcgtggagggcttcaactgctacttccctctgcagag
+                .******  *********.***********.******************** ******  
+
+Pfizer_BNT-162b ctacggctttcagcccacaaatggcgtgggctatcagccctacagagtggtggtgctgag
+Moderna_mRNA-12 ctacggcttccagcccaccaacggcgtgggctaccagccctaccgggtggtggtgctgag
+                *********.******** **.***********.********* *.**************
+
+Pfizer_BNT-162b cttcgaactgctgcatgcccctgccacagtgtgcggccctaagaaaagcaccaatctcgt
+Moderna_mRNA-12 cttcgagctgctgcacgccccagccaccgtgtgtggccccaagaagagcaccaacctggt
+                ******.********.***** ***** *****.*****.*****.********.** **
+
+Pfizer_BNT-162b gaagaacaaatgcgtgaacttcaacttcaacggcctgaccggcaccggcgtgctgacaga
+Moderna_mRNA-12 gaagaacaagtgcgtgaacttcaacttcaacggccttaccggcaccggcgtgctgaccga
+                *********.************************** ******************** **
+
+Pfizer_BNT-162b gagcaacaagaagttcctgccattccagcagtttggccgggatatcgccgataccacaga
+Moderna_mRNA-12 gagcaacaagaaattcctgccctttcagcagttcggccgggacatcgccgacaccaccga
+                ************.******** **.********.********.********.***** **
+
+Pfizer_BNT-162b cgccgttagagatccccagacactggaaatcctggacatcaccccttgcagcttcggcgg
+Moderna_mRNA-12 cgctgtgcgggatccccagaccctggagatcctggacatcaccccttgcagcttcggcgg
+                ***.**  *.*********** *****.********************************
+
+Pfizer_BNT-162b agtgtctgtgatcacccctggcaccaacaccagcaatcaggtggcagtgctgtaccagga
+Moderna_mRNA-12 cgtgagcgtgatcaccccaggcaccaacaccagcaaccaggtggccgtgctgtaccagga
+                 ***  .*********** *****************.******** **************
+
+Pfizer_BNT-162b cgtgaactgtaccgaagtgcccgtggccattcacgccgatcagctgacacctacatggcg
+Moderna_mRNA-12 cgtgaactgcaccgaggtgcccgtggccatccacgccgaccagctgacacccacctggcg
+                *********.*****.**************.********.***********.** *****
+
+Pfizer_BNT-162b ggtgtactccaccggcagcaatgtgtttcagaccagagccggctgtctgatcggagccga
+Moderna_mRNA-12 ggtctacagcaccggcagcaacgtgttccagacccgggccggttgcctgatcggcgccga
+                *** ***  ************.*****.****** *.*****.**.******** *****
+
+Pfizer_BNT-162b gcacgtgaacaatagctacgagtgcgacatccccatcggcgctggaatctgcgccagcta
+Moderna_mRNA-12 gcacgtgaacaacagctacgagtgcgacatccccatcggcgccggcatctgtgccagcta
+                ************.*****************************.** *****.********
+
+Pfizer_BNT-162b ccagacacagacaaacagccctcggagagccagaagcgtggccagccagagcatcattgc
+Moderna_mRNA-12 ccagacccagaccaattcaccccggagggcaaggagcgtggccagccagagcatcatcgc
+                ****** ***** **.   **.*****.** **.***********************.**
+
+Pfizer_BNT-162b ctacacaatgtctctgggcgccgagaacagcgtggcctactccaacaactctatcgctat
+Moderna_mRNA-12 ctacaccatgagcctgggcgccgagaacagcgtggcctacagcaacaacagcatcgccat
+                ****** ***  .***************************  *******  .*****.**
+
+Pfizer_BNT-162b ccccaccaacttcaccatcagcgtgaccacagagatcctgcctgtgtccatgaccaagac
+Moderna_mRNA-12 ccccaccaacttcaccatcagcgtgaccaccgagattctgcccgtgagcatgaccaagac
+                ****************************** *****.*****.***  ************
+
+Pfizer_BNT-162b cagcgtggactgcaccatgtacatctgcggcgattccaccgagtgctccaacctgctgct
+Moderna_mRNA-12 cagcgtggactgcaccatgtacatctgcggcgacagcaccgagtgcagcaacctgctgct
+                *********************************.  **********  ************
+
+Pfizer_BNT-162b gcagtacggcagcttctgcacccagctgaatagagccctgacagggatcgccgtggaaca
+Moderna_mRNA-12 gcagtacggcagcttctgcacccagctgaaccgggccctgaccggcatcgccgtggagca
+                ******************************. *.******** ** ***********.**
+
+Pfizer_BNT-162b ggacaagaacacccaagaggtgttcgcccaagtgaagcagatctacaagacccctcctat
+Moderna_mRNA-12 ggacaagaacacccaggaggtgttcgcccaggtgaagcagatctacaagacccctcccat
+                ***************.**************.**************************.**
+
+Pfizer_BNT-162b caaggacttcggcggcttcaatttcagccagattctgcccgatcctagcaagcccagcaa
+Moderna_mRNA-12 caaggacttcggcggcttcaacttcagccagatcctgcccgaccccagcaagcccagcaa
+                *********************.***********.********.**.**************
+
+Pfizer_BNT-162b gcggagcttcatcgaggacctgctgttcaacaaagtgacactggccgacgccggcttcat
+Moderna_mRNA-12 gcggagcttcatcgaggacctgctgttcaacaaggtgaccctagccgacgccggcttcat
+                *********************************.***** **.*****************
+
+Pfizer_BNT-162b caagcagtatggcgattgtctgggcgacattgccgccagggatctgatttgcgcccagaa
+Moderna_mRNA-12 caagcagtacggcgactgcctcggcgacatagccgcccgggacctgatctgcgcccagaa
+                *********.*****.**.** ******** ****** ****.*****.***********
+
+Pfizer_BNT-162b gtttaacggactgacagtgctgcctcctctgctgaccgatgagatgatcgcccagtacac
+Moderna_mRNA-12 gttcaacggcctgaccgtgctgcctcccctgctgaccgacgagatgatcgcccagtacac
+                ***.***** ***** ***********.***********.********************
+
+Pfizer_BNT-162b atctgccctgctggccggcacaatcacaagcggctggacatttggagcaggcgccgctct
+Moderna_mRNA-12 cagcgccctgttagccggaaccatcaccagcggctggactttcggcgctggagccgctct
+                   .******.*.***** ** ***** *********** **.** ** ** ********
+
+Pfizer_BNT-162b gcagatcccctttgctatgcagatggcctaccggttcaacggcatcggagtgacccagaa
+Moderna_mRNA-12 gcagatccccttcgccatgcagatggcctaccggttcaacggcatcggcgtgacccagaa
+                ************.**.******************************** ***********
+
+Pfizer_BNT-162b tgtgctgtacgagaaccagaagctgatcgccaaccagttcaacagcgccatcggcaagat
+Moderna_mRNA-12 cgtgctgtacgagaaccagaagctgatcgccaaccagttcaacagcgccatcggcaagat
+                .***********************************************************
+
+Pfizer_BNT-162b ccaggacagcctgagcagcacagcaagcgccctgggaaagctgcaggacgtggtcaacca
+Moderna_mRNA-12 ccaggacagcctgagcagcaccgctagcgccctgggcaagctgcaggacgtggtgaacca
+                ********************* ** *********** ***************** *****
+
+Pfizer_BNT-162b gaatgcccaggcactgaacaccctggtcaagcagctgtcctccaacttcggcgccatcag
+Moderna_mRNA-12 gaacgcccaggccctgaacaccctggtgaagcagctgagcagcaacttcggcgccatcag
+                ***.******** ************** *********  *  ******************
+
+Pfizer_BNT-162b ctctgtgctgaacgatatcctgagcagactggaccctcctgaggccgaggtgcagatcga
+Moderna_mRNA-12 cagcgtgctgaacgacatcctgagccggctggaccctcccgaggccgaggtgcagatcga
+                *  .***********.********* *.***********.********************
+
+Pfizer_BNT-162b cagactgatcacaggcagactgcagagcctccagacatacgtgacccagcagctgatcag
+Moderna_mRNA-12 ccggctgatcactggccggctgcagagcctgcagacctacgtgacccagcagctgatccg
+                * *.******** *** *.*********** ***** ********************* *
+
+Pfizer_BNT-162b agccgccgagattagagcctctgccaatctggccgccaccaagatgtctgagtgtgtgct
+Moderna_mRNA-12 ggccgccgagattcgggccagcgccaacctggccgccaccaagatgagcgagtgcgtgct
+                .************ *.***  .*****.******************  .*****.*****
+
+Pfizer_BNT-162b gggccagagcaagagagtggacttttgcggcaagggctaccacctgatgagcttccctca
+Moderna_mRNA-12 gggccagagcaagcgggtggacttctgcggcaagggctaccacctgatgagctttcccca
+                ************* *.********.*****************************.**.**
+
+Pfizer_BNT-162b gtctgcccctcacggcgtggtgtttctgcacgtgacatatgtgcccgctcaagagaagaa
+Moderna_mRNA-12 gagcgcaccccacggagtggtgttcctgcacgtgacctacgtgcccgcccaggagaagaa
+                *  .** **.***** ********.*********** **.********.**.********
+
+Pfizer_BNT-162b tttcaccaccgctccagccatctgccacgacggcaaagcccactttcctagagaaggcgt
+Moderna_mRNA-12 cttcaccaccgccccagccatctgccacgacggcaaggcccactttccccgggagggcgt
+                .***********.***********************.***********. *.**.*****
+
+Pfizer_BNT-162b gttcgtgtccaacggcacccattggttcgtgacacagcggaacttctacgagccccagat
+Moderna_mRNA-12 gttcgtgagcaacggcacccactggttcgtgacccagcggaacttctacgagccccagat
+                *******  ************.*********** **************************
+
+Pfizer_BNT-162b catcaccaccgacaacaccttcgtgtctggcaactgcgacgtcgtgatcggcattgtgaa
+Moderna_mRNA-12 catcaccaccgacaacaccttcgtgagcggcaactgcgacgtggtgatcggcatcgtgaa
+                *************************  .************** ***********.*****
+
+Pfizer_BNT-162b caataccgtgtacgaccctctgcagcccgagctggacagcttcaaagaggaactggacaa
+Moderna_mRNA-12 caacaccgtgtacgatcccctgcagcccgagctggacagcttcaaggaggagctggacaa
+                ***.***********.**.**************************.*****.********
+
+Pfizer_BNT-162b gtactttaagaaccacacaagccccgacgtggacctgggcgatatcagcggaatcaatgc
+Moderna_mRNA-12 gtacttcaagaatcacaccagccccgacgtggacctgggcgacatcagcggcatcaacgc
+                ******.*****.***** ***********************.******** *****.**
+
+Pfizer_BNT-162b cagcgtcgtgaacatccagaaagagatcgaccggctgaacgaggtggccaagaatctgaa
+Moderna_mRNA-12 cagcgtggtgaacatccagaaggagatcgatcggctgaacgaggtggccaagaacctgaa
+                ****** **************.********.***********************.*****
+
+Pfizer_BNT-162b cgagagcctgatcgacctgcaagaactggggaagtacgagcagtacatcaagtggccctg
+Moderna_mRNA-12 cgagagcctgatcgacctgcaggagctgggcaagtacgagcagtacatcaagtggccctg
+                *********************.**.***** *****************************
+
+Pfizer_BNT-162b gtacatctggctgggctttatcgccggactgattgccatcgtgatggtcacaatcatgct
+Moderna_mRNA-12 gtacatctggctgggcttcatcgccggcctgatcgccatcgtgatggtgaccatcatgct
+                ******************.******** *****.************** ** ********
+
+Pfizer_BNT-162b gtgttgcatgaccagctgctgtagctgcctgaagggctgttgtagctgtggcagctgctg
+Moderna_mRNA-12 gtgctgcatgaccagctgctgcagctgcctgaagggctgttgcagctgcggcagctgctg
+                ***.*****************.********************.*****.***********
+
+Pfizer_BNT-162b caagttcgacgaggacgattctgagcccgtgctgaagggcgtgaaactgcactacacatg
+Moderna_mRNA-12 caagttcgacgaggacgacagcgagcccgtgctgaagggcgtgaagctgcactacacctg
+                ******************.  .***********************.*********** **
+
+Pfizer_BNT-162b atgactcgagctggtactgcatgcacgcaatgctagctgcccctttcccgtcctgggtac
+Moderna_mRNA-12 ataa--taggctggagcctcggtggccta--gcttcttgcccctt---------------
+                **.*  ...***** .*. *.   .* .*  ***  .********               
+
+Pfizer_BNT-162b cccgagtctcccccgacctcgggtcccaggtatgctcccacctccacctgccccactcac
+Moderna_mRNA-12 ---gggcctccccccagc------------------ccctcctccccttcctgcacccg-
+                   *.*.******* * *                  *** ***** *.* *. ***.*. 
+
+Pfizer_BNT-162b cacctctgctagttccagacacctcccaagcacgcagcaatgcagctcaaaacgcttagc
+Moderna_mRNA-12 tacccccgtggtctttgaataaagtctgagtgggcggca---------------------
+                .***.*.*. . .*....*.*   .*..**.. **.***                     
+
+Pfizer_BNT-162b ctagccacacccccacgggaaacagcagtgattaacctttagcaataaacgaaagtttaa
+Moderna_mRNA-12 ----------------------------------------------aaaaaaaa------
+                                                              *** .***      
+
+Pfizer_BNT-162b ctaagctatactaaccccagggttggtcaatttcgtgccagccacaccctggagctagca
+Moderna_mRNA-12 ------------------------------------------------------------
+                                                                            
